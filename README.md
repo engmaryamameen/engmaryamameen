@@ -91,17 +91,7 @@
 
 
 <br>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engmaryamameen&show_icons=true&locale=en&layout=compact" alt="engmaryamameen" />
-</p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=engmaryamameen&show_icons=true&locale=en" alt="engmaryamameen" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engmaryamameen&" alt="engmaryamameen" />
-</p>
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/engmaryamameen/engmaryamameen/output/github-contribution-grid-snake-dark.svg">
