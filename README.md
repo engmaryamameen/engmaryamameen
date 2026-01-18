@@ -5,9 +5,12 @@
   <a href="https://github.com/engmaryamameen">engmaryamameen.github.io</a>
 </h4>
 
+
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=engmaryamameen&label=Profile%20views&color=0e75b6&style=flat" alt="engmaryamameen" />
+  <img src="https://komarev.com/ghpvc/?username=engmaryamameen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/stars/engmaryamameen?affiliations=OWNER&label=Total%20Stars&style=flat&logo=github" alt="Total stars" />
 </p>
+
 
 - 🚀 <strong>Senior Software Engineer</strong> with deep experience in designing and developing scalable, high-performance web applications  
 - 👩‍💻 Explore all my open-source work on <a href="https://github.com/engmaryamameen"><strong>GitHub</strong></a>  
