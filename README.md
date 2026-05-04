@@ -118,7 +118,6 @@ TaskForge includes organization-based project management, real-time collaboratio
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maryam_Ameen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-ameen)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0101f3e2fcf90a402c)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-eng_maryam-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/31205644/eng-maryam)
 [![Fiverr](https://img.shields.io/badge/Fiverr-engmaryam_ameen-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/engmaryam_ameen)
